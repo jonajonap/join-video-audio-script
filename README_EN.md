@@ -102,9 +102,9 @@ python main.py
 ### Example output:
 
 ```
-🎬 Uniendo: AQUILEGIA 0 - PRESENTACIÓN (1080p with 30fps).mp4 + AQUILEGIA 0 - PRESENTACIÓN-audio.mp4
+🎬 Uniendo: Video_1.mp4 + Video_1-audio.mp4
 ✅ Guardado en: output/01/video_final.mp4
-🎬 Uniendo: AQUILEGIA 1 Materiales (720p with 30fps).mp4 + AQUILEGIA 1 Materiales-audio.mp4
+🎬 Uniendo: Video_2.mp4 + Video_2-audio.mp4
 ✅ Guardado en: output/02/video_final.mp4
 ⚠️ Saltando carpeta 03, falta video o audio
 ```
